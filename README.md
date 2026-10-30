@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- 🌟 Logo Base44 yang dibuat bulat menggunakan CSS style -->
 <img src="https://media.base44.com/images/public/6ab600e53309bf514a24fdeb/ce5fa0b33_logo.png/v1/fit/w_180,h_180/ce5fa0b33_logo.png" alt="Rationatsu Logo" width="130px" style="border-radius: 50%;" />
 
 # ✦ Welcome to Rationatsu's Realm ✦
 
-*✨ "Explore the code, discover the art, embark on the journey." ✨*
+* "Eksplor apa yang kamu suka di project ku" *
 
 <br>
 
-<!-- ================= 1. PROFILE & BIO ================= -->
 <details>
-  <summary><b>📖 KLIK DI SINI: Profile & Bio</b></summary>
+  <summary><b> Profile & Bio</b></summary>
   <br>
   <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Rizz). Seorang kreator, Digital Artist, dan Junior Developer yang senang meramu kode dan imajinasi visual menjadi kenyataan.</p>
-  <p>🎨 <b>Role:</b> Artist & Developer</p>
-  <p>🌍 <b>Base:</b> West Java, Indonesia</p>
-  <p>💡 <i>"Beberapa project-ku kubuat untuk menjadi referensi dan menemani petualangan kalian di dunia digital!"</i> :3</p>
+  <p>  <b>Role:</b> Artist & Developer</p>
+  <p>  <b>Base:</b> West Java, Indonesia</p>
+  <p> <i>"Beberapa project-ku kubuat suka suka untuk menjadi referensi dan menemani petualangan ku!"</i> :3</p>
 </details>
 
 <br>
 
-<!-- ================= 2. TECH STACK ================= -->
 <details>
-  <summary><b>⚔️ Tech & Tools</b></summary>
+  <summary><b> Tech & Tools </b></summary>
   <br>
   <p>Bahasa pemrograman dan tools yang biasa digunakan dalam petualangan:</p>
   <p>
@@ -36,27 +33,25 @@
 
 <br>
 
-<!-- ================= 3. PARTNERS & HOSTING ================= -->
 <details>
-  <summary><b>🤝 Partners & Hosting</b></summary>
+  <summary><b> Partners & Hosting</b></summary>
   <br>
-  <p>Dunia petualangan ini didukung oleh partner dan teknologi hebat:</p>
+  <p> Di bagian sini aku sering jadikan sebagai hosting dan gemini aku tanya tanya soal kode yang salahnya itu di mana ~</p>
   <p>
     <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> 
-    <br><i>AI Companion & Assistant for Code & Reference.</i>
+    <br><i>Assistant for Code helper & Reference.</i>
   </p>
   <br>
   <p>
     <img src="https://cdn.prod.website-files.com/5e6aa3e3f001fad873b8e1f5/68cd7c3a47288bc0a652b8ee_znegppeohzlm0sjlvlil.png" alt="Base44" width="100px" style="vertical-align: middle;" />
-    <br><i>Deployment & Platform Partner.</i>
+    <br><i>Deployment Hosting & Platform Partner.</i>
   </p>
 </details>
 
 <br>
 
-<!-- ================= 4. SOCIAL & WEBSITE ================= -->
 <details>
-  <summary><b>🗺️ Social & Website</b></summary>
+  <summary><b> Social & Website</b></summary>
   <br>
   <p>Temukan aku di platform lain:</p>
   <p>
@@ -77,7 +72,7 @@
 
 <br>
 
-### 👁️ Total Travelers Visited
+### Total Travelers Visited
 <img src="https://komarev.com/ghpvc/?username=Rationatsu&color=ff5722&style=flat-square" />
 
 </div>
