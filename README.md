@@ -1,45 +1,56 @@
 <div align="center">
 
-<!-- Banner utama -->
-<img src="https://cdn.dbimg.app/PFeCSDG1.jpg" alt="Rationatsu-dev.jpeg" width="700px" style="border-radius: 8px;" />
+<!-- 🌟 Banner GIF Pixel Art Utama dari Pinterest -->
+<img src="https://i.pinimg.com/originals/be/b1/fe/beb1fe077b35b3e85be70712dc81d6ae.gif" alt="Fantasy Pixel World" width="100%" style="border-radius: 12px;" />
 
-### ✦ Profile ✦
+# 🏰 Welcome to Rationatsu's Realm 🏰
 
-### ✦ About Me ✦
-⚔️ **Welcome, Traveler!** 
-Halo! Saya **Rationatsu**, seorang kreator Artist dan developer yang menjelajahi dunia kode & seni. 
-Selamat datang di markas kecilku! :3 Semoga beberapa project ku bisa menjadi referensi atau teman seperjalanan untuk karya-mu :D
+*✨ "Explore the code, discover the art, embark on the journey." ✨*
 
-### ✦ Tech Stack ✦
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/LINUX-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<br>
 
-### ✦ Hosting & Reference ✦
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<br><br>
-<img src="https://cdn.prod.website-files.com/5e6aa3e3f001fad873b8e1f5/68cd7c3a47288bc0a652b8ee_znegppeohzlm0sjlvlil.png" alt="Base44.png" width="120px" />
-
-### ✦ Social Quests ✦
-<ib>
-  <a href="https://instagram.com/hikarurationatsu">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+<!-- Tombol Navigasi / Menu Interaktif -->
+<p>
+  <a href="#-profile--bio">
+    <img src="https://img.shields.io/badge/📖_PROFILE_%26_BIO-2b2d42?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/arskhy">
-    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="#-tech--tools">
+    <img src="https://img.shields.io/badge/⚔️_TECH_STACK-3a0ca3?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:hikarurationatsu@proton.me">
-    <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="#-partners--hosts">
+    <img src="https://img.shields.io/badge/🤝_PARTNERS-7209b7?style=for-the-badge&logoColor=white" />
   </a>
-</ib>
+  <a href="#-social-quests">
+    <img src="https://img.shields.io/badge/🗺️_SOCIAL_QUESTS-f72585?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-### ✦ Total Viewed ✦
-<img src="https://komarev.com/ghpvc/?username=Rationatsu&color=ff5722&style=flat-square" />
+---
 
-<br><br>
+<div align="left">
 
-<!-- ✨ ANIMASI PIXEL ART DUNIA FANTASY DI BAWAH ✨ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d885065ba06.gif" width="100%" />
+<h2 id="-profile--bio">📖 Profile & Bio</h2>
+<p>Halo, Traveler! Aku <strong>Rationatsu</strong> (atau biasa dipanggil Rizz). Seorang kreator, Digital Artist, dan Junior Developer yang senang meramu kode dan imajinasi visual menjadi kenyataan.</p>
+<ul>
+  <p>🎨 <strong>Role:</strong> Artist & Developer</p>
+  <p>🌍 <strong>Base:</strong> Manado, North Sulawesi, Indonesia</p>
+  <p>💡 <em>"Beberapa project-ku kubuat untuk menjadi referensi dan menemani petualangan kalian di dunia digital!"</em></p>
+</ul>
 
-</div>
+<br>
+
+<h2 id="-tech--tools">⚔️ Tech & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LINUX-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+<h2 id="-partners--hosts">🤝 Partners & Hosts</h2>
+<p>Dunia petualangan ini didukung oleh partner dan teknologi hebat:</p>
+<ul>
+  <li>
+    <img src="
