@@ -4,7 +4,7 @@
 
 # ✦ Welcome to Rationatsu's Realm ✦
 
-* "Eksplor apa yang kamu suka di project ku dan sebagian repo ku bersifat coppyright, cek di halaman Readme.md ya!" 
+* "Eksplor apa yang kamu suka di project ku dan sebagian repo ku bersifat coppyright, cek di halaman di setiap Repo ku yang terdapat file  *Readme.md* ya!" 
 
 <br>
 
