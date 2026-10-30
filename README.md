@@ -11,7 +11,7 @@
 <details>
   <summary><b> Profile & Bio</b></summary>
   <br>
-  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Natsu). Seorang kreator, Digital Artist, dan Developer yang senang memasak kode dan gambar serta nulis menjadi cerita perjalanan hidupku meskipun begitu, aku gak tau mau ngapain setelah lulus sekolah. Ini mah antara kerja langsung ( atau berwirausaha : kayak ngegambar, desain UIX website, vibe coding, nulis dan juga buat musik.</p>
+  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Natsu). Seorang kreator, Digital Artist, dan Developer yang senang memasak kode dan gambar serta nulis menjadi cerita perjalanan hidupku meskipun begitu, aku gak tau mau ngapain setelah lulus sekolah. Ini mah antara kerja langsung ( atau berwirausaha : kayak ngegambar, desain UIX website, vibe coding, nulis dan juga buat musik.)</p>
   <p>  <b>* Artist & Developer</b></p>
   <p> <b>* Furry - 2017 - 2026</b></p>
   <p>  <b>*West Java, Indonesia</b></p>
