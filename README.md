@@ -1,18 +1,21 @@
 <div align="center">
 
+<!-- 🌟 Logo Base44 yang dibuat bulat menggunakan CSS style -->
+<img src="https://media.base44.com/images/public/6ab600e53309bf514a24fdeb/ce5fa0b33_logo.png/v1/fit/w_180,h_180/ce5fa0b33_logo.png" alt="Rationatsu Logo" width="130px" style="border-radius: 50%;" />
+
 # ✦ Welcome to Rationatsu's Realm ✦
-( bundar menggunakan gambar ini   <link href="https://media.base44.com/images/public/6ab600e53309bf514a24fdeb/ce5fa0b33_logo.png/v1/fit/w_180,h_180/ce5fa0b33_logo.png"  )
 
 *✨ "Explore the code, discover the art, embark on the journey." ✨*
 
 <br>
 
+<!-- ================= 1. PROFILE & BIO ================= -->
 <details>
   <summary><b>📖 KLIK DI SINI: Profile & Bio</b></summary>
   <br>
   <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Rizz). Seorang kreator, Digital Artist, dan Junior Developer yang senang meramu kode dan imajinasi visual menjadi kenyataan.</p>
   <p>🎨 <b>Role:</b> Artist & Developer</p>
-  <p>🌍 <b>Base:</b> West Java Indonesia</p>
+  <p>🌍 <b>Base:</b> West Java, Indonesia</p>
   <p>💡 <i>"Beberapa project-ku kubuat untuk menjadi referensi dan menemani petualangan kalian di dunia digital!"</i> :3</p>
 </details>
 
@@ -20,7 +23,7 @@
 
 <!-- ================= 2. TECH STACK ================= -->
 <details>
-  <summary><b>Tech & Tools</b></summary>
+  <summary><b>⚔️ Tech & Tools</b></summary>
   <br>
   <p>Bahasa pemrograman dan tools yang biasa digunakan dalam petualangan:</p>
   <p>
@@ -35,7 +38,7 @@
 
 <!-- ================= 3. PARTNERS & HOSTING ================= -->
 <details>
-  <summary><b>: Partners & Hosting</b></summary>
+  <summary><b>🤝 Partners & Hosting</b></summary>
   <br>
   <p>Dunia petualangan ini didukung oleh partner dan teknologi hebat:</p>
   <p>
@@ -51,8 +54,9 @@
 
 <br>
 
+<!-- ================= 4. SOCIAL & WEBSITE ================= -->
 <details>
-  <summary><b> Social & website</b></summary>
+  <summary><b>🗺️ Social & Website</b></summary>
   <br>
   <p>Temukan aku di platform lain:</p>
   <p>
@@ -66,7 +70,8 @@
       <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://vgen.co/RationatsuArt">
-      <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg](https://help.vgen.co/hc/article_attachments/13004194031511?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/VGEN-%23000000.svg?style=for-the-badge&logo=vgen&logoColor=white" />
+    </a>
   </p>
 </details>
 
