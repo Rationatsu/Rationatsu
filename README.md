@@ -3,7 +3,7 @@
 <img src="https://cdn.dbimg.app/PFeCSDG1.jpg" alt="Rationatsu-dev.jpeg" />
 
 ### ✦ Profile Stalk ✦
-<img src="https://komarev.com/ghpvc/?username=RATIONATSU_KAMU&color=ff5722&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Rationatsu&color=ff5722&style=flat-square" />
 
 ### ✦ About Me ✦
 Halo! Saya Rationatsu, seorang kreator dan developer. Selamat datang di profil GitHub saya! :3
