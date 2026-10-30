@@ -11,10 +11,11 @@
 <details>
   <summary><b> Profile & Bio</b></summary>
   <br>
-  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Rizz). Seorang kreator, Digital Artist, dan Junior Developer yang senang meramu kode dan imajinasi visual menjadi kenyataan.</p>
+  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Natsu). Seorang kreator, Digital Artist, dan Developer yang senang memasak kode dan imajinasi visual menjadi kenyataan.</p>
   <p>  <b>Role:</b> Artist & Developer</p>
   <p>  <b>Base:</b> West Java, Indonesia</p>
   <p> <i>"Beberapa project-ku kubuat suka suka untuk menjadi referensi dan menemani petualangan ku!"</i> :3</p>
+  <p> <i>"Website resmi rationatsu : https://rationatsu.base44.app"</p>
 </details>
 
 <br>
