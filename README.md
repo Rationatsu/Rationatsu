@@ -4,16 +4,17 @@
 
 # ✦ Welcome to Rationatsu's Realm ✦
 
-* "Eksplor apa yang kamu suka di project ku" *
+* "Eksplor apa yang kamu suka di project ku dan sebagian repo ku bersifat coppyright, cek di halaman Readme.md ya!" 
 
 <br>
 
 <details>
   <summary><b> Profile & Bio</b></summary>
   <br>
-  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Natsu). Seorang kreator, Digital Artist, dan Developer yang senang memasak kode dan imajinasi visual menjadi kenyataan.</p>
-  <p>  <b></b> Artist & Developer</p>
-  <p>  <b></b> West Java, Indonesia</p>
+  <p>Halo, Traveler! Aku <b>Rationatsu</b> (atau biasa dipanggil Natsu). Seorang kreator, Digital Artist, dan Developer yang senang memasak kode dan gambar serta nulis menjadi cerita perjalanan hidupku meskipun begitu, aku gak tau mau ngapain setelah lulus sekolah. Ini mah antara kerja langsung ( atau berwirausaha : kayak ngegambar, desain UIX website, vibe coding, nulis dan juga buat musik.</p>
+  <p>  <b>* Artist & Developer</b></p>
+  <p> <b>* Furry - 2017 - 2026</b></p>
+  <p>  <b>*West Java, Indonesia</b></p>
   <p> <i>"Beberapa project-ku kubuat suka suka untuk menjadi referensi dan menemani petualangan ku!"</i> :3</p>
   <p> <i>"Website resmi rationatsu : https://rationatsu.base44.app"</p>
 </details>
@@ -73,7 +74,7 @@
 
 <br>
 
-### Total Travelers Visited
+### Total Travelers Visited My Github :D
 <img src="https://komarev.com/ghpvc/?username=Rationatsu&color=ff5722&style=flat-square" />
 
 </div>
