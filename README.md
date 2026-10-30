@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- Banner utama (efek sinematik) -->
+<!-- Banner utama -->
 <img src="https://cdn.dbimg.app/PFeCSDG1.jpg" alt="Rationatsu-dev.jpeg" width="700px" style="border-radius: 8px;" />
-
-<br>
-
-<!-- Divider / Pemisah Pixel Art Animasi (Opsional untuk kesan petualangan) -->
-<img src="https://assets.gamedev.net/forums/monthly_2021_04/line.gif" width="100%" />
 
 ### ✦ Profile ✦
 
@@ -26,11 +21,6 @@ Selamat datang di markas kecilku! :3 Semoga beberapa project ku bisa menjadi ref
 <br><br>
 <img src="https://cdn.prod.website-files.com/5e6aa3e3f001fad873b8e1f5/68cd7c3a47288bc0a652b8ee_znegppeohzlm0sjlvlil.png" alt="Base44.png" width="120px" />
 
-<br>
-
-<!-- Divider bawah -->
-<img src="https://assets.gamedev.net/forums/monthly_2021_04/line.gif" width="100%" />
-
 ### ✦ Social Quests ✦
 <ib>
   <a href="https://instagram.com/hikarurationatsu">
@@ -46,5 +36,10 @@ Selamat datang di markas kecilku! :3 Semoga beberapa project ku bisa menjadi ref
 
 ### ✦ Total Viewed ✦
 <img src="https://komarev.com/ghpvc/?username=Rationatsu&color=ff5722&style=flat-square" />
+
+<br><br>
+
+<!-- ✨ ANIMASI PIXEL ART DUNIA FANTASY DI BAWAH ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d885065ba06.gif" width="100%" />
 
 </div>
